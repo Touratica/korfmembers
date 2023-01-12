@@ -26,6 +26,7 @@
     "@types/next-auth": "^3.13.0",
     "@types/node": "^18.11.18",
     "@types/react": "^18.0.26",
+    "dotenv-cli": "^6.0.0",
     "eslint": "^8.31.0",
     "eslint-config-next": "^13.1.1",
     "prisma": "^4.8.1",
